@@ -1,2 +1,2 @@
 # clone-tabnews-ia
-Implementação do curso.dev/ia
+Implementação do https://tabnews.com.br para o https://curso.dev utilizando agentes de IA
